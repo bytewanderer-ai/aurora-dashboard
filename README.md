@@ -18,3 +18,5 @@ The dashboard is no longer actively developed. Historical records are kept
 for reference.
 
 > Some historical components are not part of the current build.
+
+Navigation was added to the dashboard for the main project sections.
