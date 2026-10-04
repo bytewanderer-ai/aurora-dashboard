@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Historical paths are not part of the public navigation.
+Disallow: /old/
+Disallow: /internal/

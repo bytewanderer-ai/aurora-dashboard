@@ -1,0 +1,25 @@
+{
+  "project": "Aurora Dashboard",
+  "status": "archived",
+  "lastUpdated": "2021-08-14",
+  "records": [
+    {
+      "id": "ARC-001",
+      "name": "Initial prototype",
+      "year": 2018,
+      "status": "archived"
+    },
+    {
+      "id": "ARC-002",
+      "name": "Migration preparation",
+      "year": 2019,
+      "status": "archived"
+    },
+    {
+      "id": "ARC-003",
+      "name": "Public dashboard",
+      "year": 2020,
+      "status": "published"
+    }
+  ]
+}

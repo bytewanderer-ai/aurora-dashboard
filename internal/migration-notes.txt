@@ -1,0 +1,9 @@
+AURORA MIGRATION
+
+2019 migration review:
+- legacy archive reviewed
+- old components temporarily retained
+- external archive created
+- production branch cleaned after migration
+
+Reference handling was documented separately.
