@@ -1,0 +1,6 @@
+Migration review - 2019
+
+The legacy archive was reviewed before the dashboard
+moved to the new environment.
+
+Temporary migration records were kept during the review.
